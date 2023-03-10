@@ -1,0 +1,283 @@
+.Heading{
+    display: flex;
+    gap:7%;
+}
+#house{
+    font-style: italic;
+    color:rgb(168, 168, 22);
+    font-size: larger;
+}
+#yellow{
+    color: #fab005;
+}
+/* #button{
+    border-color: white;
+} */
+.Intro{
+     margin-left:10%; 
+    display: flex;
+    
+  
+}
+#title{
+    font-weight: 900;
+     font-size:35px ; 
+}
+#healthy{
+    color: #ffd43b;
+}
+.paragraph{
+    font-size:larger;
+ 
+
+}
+#buttonorder{
+    color:white;
+    background-color: #fcc419;
+    border-radius: 10px;
+    padding: 20px;
+    /* border-color: #fcc419; */
+    border-style: none;
+}
+#chicken{
+   height: 50%;
+   width:25% ;
+}
+.popularfoods{
+    margin-top: 5%;
+    display: flex;
+    gap:5%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+} 
+#online{
+    margin-left: 50%;
+    font-style: italic;
+    font-size: larger;
+}
+#popular{
+    margin-left: 40%;
+    font-size: xx-large;
+    margin-bottom: 7%;
+   
+
+}
+#fish{
+    height:200px; 
+    border-radius: 60%; 
+    width: 70%; 
+     
+}
+#chips{
+    height:200px;
+    border-radius: 60%;
+ 
+}
+#sea{
+    height:200px;
+    width:88% ;
+    border-radius: 70%;
+}
+#pizza{
+    height:200px;
+    width:150%;
+     border-radius: 80%; 
+}
+#button1{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;
+}
+#button2{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;
+}
+#button3{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;
+}
+#button4{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;
+    margin-bottom: 30%;
+    
+}
+#button5{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;   
+}
+#offers{
+        font-size:60px;            
+}
+.Offers{
+    margin-left: 15%;
+} 
+#button6{
+    background-color:#fcc419;
+    color: white;
+    padding:15px;
+    border-radius:10px ;
+    border-style: none;   
+}
+ #tuna{
+    height: 400px; 
+    margin-left: 5%;
+     width: 300px; 
+}
+ .Specialoffer{
+    display: flex;
+    margin-bottom: 7%;
+ }
+ .Advertisement{
+    margin-bottom: 7%;
+    font-size: large;
+    text-align: center;
+ }
+ #h{
+    font-size: 30px;
+    font-weight: 900;
+ }
+#h1{
+    font-weight: 900;
+     font-size:35px; 
+     margin-left: 35%;
+   
+}
+.Display{
+    display: flex;
+    margin-left: 7%;
+    gap:5%;
+}
+#burger{
+    height: 70px;
+    /* margin-bottom: 3%; */
+}
+#salad{
+    height: 60px;
+}
+#icons{
+    height: 70px;
+}
+.services{
+    display: flex;
+    gap:15%;
+    margin-left: 4%;
+    font-size: large;
+   
+}
+.space{
+    background-color:#fff9db;
+    width: 500px;
+ 
+
+}
+#quotation{
+    height:60px;
+    margin-left: 46%;
+}
+.paragraph{
+    text-align: center;
+    margin-bottom: 7%;
+}
+#text{
+    margin-top: 10%;
+    text-align: center;
+    font-size: large;
+}
+.ceos{
+text-align: center;
+/* border-radius: 60%; */
+
+}
+#woman{
+    border-radius: 60%;
+    height: 60px;
+}
+#ceo{
+    border-radius: 60%;
+    height: 60px;
+
+}
+#Ceo{
+    border-radius: 60%;
+    height: 60px;
+
+
+}
+#Ceo1{
+    border-radius: 60%;
+    height: 60px;
+}
+#arrow{
+    height:90px;
+    background-color: #fff9db;
+}
+#apple{
+    height:150px;
+}
+#google{
+    height: 40px;
+    margin-bottom: 17%;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color:black;
+ }
+#download{
+    color:#fab005;
+    font-size: larger;
+}
+.about{
+    display:flex;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+#buttonn{
+    background-color:#fcc419;
+    color: white;
+    padding:20px 30px;
+    border-radius:15px ;
+    border-style: none;   
+}
+.email{
+    margin-left:25%;
+}
+/* .email{
+    display:flex;
+     float: right; 
+    /* margin-right: 30%; */
+    /* background-color: white;
+    
+    
+} */ 
+.subscribe{
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.rights{
+    display: flex;
+    background-color: #fab005;
+
+    justify-content: space-between;
+  
+}
+
+
+
